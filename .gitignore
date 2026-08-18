@@ -1,0 +1,8 @@
+# CMake 构建目录
+build/
+
+# 编译产生的可执行文件
+*.exe
+
+# VS Code 临时文件
+*.code-workspace
